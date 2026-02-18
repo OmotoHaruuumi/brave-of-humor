@@ -1,0 +1,43 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Unity meta files for compiled plugins (keep source meta files)
+*.pidb
+*.pdb
+*.mdb
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crashlytics
+crashlytics-build.properties
+
+# Asset Store tools
+/[Aa]sset [Ss]tore [Tt]ools/
