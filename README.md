@@ -26,11 +26,9 @@
 
 ## スクリーンショット
 
-> ※ スクリーンショットは `docs/screenshots/` フォルダに追加予定
-
-| タイトル画面 | ゲーム画面（選択肢） | リザルト画面 |
+| ボケボタン演出 | ゲーム画面（選択肢） | リザルト画面 |
 |:---:|:---:|:---:|
-| *(coming soon)* | *(coming soon)* | *(coming soon)* |
+| ![ボケボタン](docs/screenshots/boke-button.png) | ![選択肢](docs/screenshots/gameplay-choices.png) | ![リザルト](docs/screenshots/result.png) |
 
 ---
 
