@@ -34,7 +34,7 @@
 
 ## ゲームはこちらから遊べます！！
 
-https://unityroom.com/games/braveofhumor
+https://unityroom.com/games/legend_of_sugiru
 
 ---
 
@@ -171,5 +171,6 @@ brave of humor/
 
 本リポジトリのコードは [MIT License](LICENSE) のもとで公開しています。
 ゲーム内のアセット（画像・音声・テキスト）の著作権は制作チームに帰属します。
+
 
 
